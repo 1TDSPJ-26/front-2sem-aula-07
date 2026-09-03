@@ -5,7 +5,7 @@ export default function Conteudo() {
 
       <figure>
         <img
-          src="https://placehold.co/600x400/FFFFF0/FFFFFF/png"
+          src="https://placehold.co/600x400/000000/FFFFFF/png"
           alt="Imagem ilustrativa do conteúdo"
         />
 
