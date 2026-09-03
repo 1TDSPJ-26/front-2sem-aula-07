@@ -7,7 +7,7 @@ export function Conteudo() {
         <h2>Conteúdo</h2>
         <figure>
           <img
-            src="https://placehold.co/600x400/FFFFF0/FFFFFF/png"
+            src="https://placehold.co/600x400/FF00F0/FFFFFF/png"
             alt="Imagem ilustrativa do conteúdo" />
           <figcaption>
             Imagem utilizada para representar o conteúdo da aplicação.
