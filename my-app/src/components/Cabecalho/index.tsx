@@ -1,0 +1,14 @@
+export default function Conteudo() {
+  return (
+    <header>
+    <h1>Meu site</h1>
+    <nav>
+        <ul>
+            <li>Item-1</li>
+            <li>Item-2</li>
+            <li>Item-3</li>
+        </ul>
+    </nav>
+    </header>
+  )
+}
